@@ -2,6 +2,13 @@
 
 ### Junior ML / AI Engineer | NLP & RAG
 
+🎓 **Education**
+
+**Altai State Technical University named after I. I. Polzunov (AltSTU)**
+Faculty of Information Technologies
+Department of Informatics, Computer Engineering and Information Security
+**B.Sc. in Computer Science and Computer Engineering — 09.03.01**
+
 I'm focused on **Machine Learning, NLP and AI engineering**, with a particular interest in building practical ML systems and working with language models.
 
 Currently developing my skills in **PyTorch, Transformers, NLP, RAG and classical Machine Learning**.
