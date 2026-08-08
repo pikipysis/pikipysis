@@ -89,8 +89,6 @@ Practical implementations and exercises covering classical Machine Learning.
 
 `Python` `scikit-learn` `NumPy` `pandas`
 
-➡️ [View project](#)
-
 ---
 
 ## 🎯 Career Goal
