@@ -86,38 +86,6 @@ Practical implementations and exercises covering classical Machine Learning.
 
 ---
 
-### 🐍 Python Practice
-
-A collection of Python exercises and implementations used to strengthen programming and algorithmic skills.
-
-**Topics:**
-
-* Python fundamentals
-* Functions
-* Classes
-* Data structures
-* Algorithms
-* File handling
-* Working with collections
-* Problem solving
-
-➡️ [View project](#)
-
----
-
-## 📚 Currently Learning
-
-* Deep Learning with PyTorch
-* NLP and Transformers
-* RAG systems
-* LLM-based applications
-* Machine Learning algorithms
-* Model evaluation
-* SQL
-* ML system development
-
----
-
 ## 🎯 Career Goal
 
 I'm looking for an opportunity as a **Junior ML / AI Engineer**, where I can apply my knowledge of Machine Learning and NLP to real-world problems and continue developing as an AI engineer.
