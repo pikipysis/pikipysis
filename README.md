@@ -57,7 +57,7 @@ A web-based chatbot for commercial bank customer support using NLP technologies.
 
 The RAG-based approach significantly improved the quality of generated answers compared with the standalone Transformer model.
 
-➡️ [View project](#)
+➡️ [View project](#pikipysis/diplom_bank-support-chatbot)
 
 ---
 
