@@ -95,9 +95,8 @@ I'm looking for an opportunity as a **Junior ML / AI Engineer**, where I can app
 ## 📫 Contact
 
 Feel free to connect with me or check out my repositories.
-
-[GitHub](https://github.com/)
-[Telegram] @pikipysister
+- Telegram: [@pikipysister](https://t.me/pikipysister)
+- GitHub: [@pikipysis](https://github.com/pikipysis)
 <!--
 **pikipysis/pikipysis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
